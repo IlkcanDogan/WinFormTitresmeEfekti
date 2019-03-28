@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\bin\Debug\TitresenmeEfekti.exe.config
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\bin\Debug\TitresenmeEfekti.exe
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\bin\Debug\TitresenmeEfekti.pdb
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.Form1.resources
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.exe
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.pdb
+C:\Users\MKA\Desktop\Programlar\TitresenmeEfekti\TitresenmeEfekti\obj\Debug\TitresenmeEfekti.csprojAssemblyReference.cache
